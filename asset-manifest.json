@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MAHDI789/static/css/main.82952899.css",
+    "main.js": "/MAHDI789/static/js/main.8832b9d6.js",
+    "static/media/ai.png": "/MAHDI789/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/MAHDI789/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/MAHDI789/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/MAHDI789/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/MAHDI789/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/MAHDI789/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/MAHDI789/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/MAHDI789/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/MAHDI789/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/MAHDI789/index.html",
+    "main.82952899.css.map": "/MAHDI789/static/css/main.82952899.css.map",
+    "main.8832b9d6.js.map": "/MAHDI789/static/js/main.8832b9d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82952899.css",
+    "static/js/main.8832b9d6.js"
+  ]
+}
